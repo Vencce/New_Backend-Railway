@@ -1,0 +1,95 @@
+{
+  "autores": [
+    {
+      "id": 1,
+      "nome": "Dwayne Johnson"
+    },
+    {
+      "nome": "Keanu Reeves",
+      "id": 2
+    },
+    {
+      "nome": "Daniel Radcliffe",
+      "id": 3
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "descricao": "Administração, Negócios e Economia"
+    },
+    {
+      "id": 2,
+      "descricao": "Estilo de Vida"
+    },
+    {
+      "id": 3,
+      "descricao": "Biografias e Histórias Reais"
+    },
+    {
+      "id": 4,
+      "descricao": "Direito"
+    },
+    {
+      "id": 5,
+      "descricao": "Fantasia, Horror e Ficção Científica"
+    },
+    {
+      "id": 6,
+      "descricao": "HQs e Mangás"
+    },
+    {
+      "id": 7,
+      "descricao": "Romance"
+    },
+    {
+      "id": 8,
+      "descricao": "Policial, Suspense e Mistério"
+    },
+    {
+      "descricao": "Computação, Informática e Mídias Digitais",
+      "id": 9
+    }
+  ],
+  "editoras": [
+    {
+      "id": 1,
+      "nome": "Bloomsbury",
+      "site": "https://www.bloomsbury.com/uk"
+    },
+    { 
+      "id": 2,
+      "nome": "Saraiva",
+      "site": "https://www.saraiva.com.br"
+    }
+  ],
+  "livros": [
+    {
+      "nome": "O Pump e a mente interligados",
+      "categoria": "Estilo de Vida",
+      "autor": "Dwayne Johnson",
+      "editora": "Saraiva",
+      "quantidade": 250,
+      "preco": 45,
+      "id": 1
+    },
+    {
+      "nome": "O erro de um Assassino",
+      "categoria": "Fantasia, Horror e Ficção Científica",
+      "autor": "Keanu Reeves",
+      "editora": "Saraiva",
+      "quantidade": 175,
+      "preco": 50,
+      "id": 2
+    },
+    {
+      "nome": "Fama na infancia",
+      "categoria": "Biografias e Histórias Reais",
+      "autor": "Daniel Radcliffe",
+      "editora": "Bloomsbury",
+      "quantidade": 55,
+      "preco": 59,
+      "id": 3
+    }
+  ]
+}
